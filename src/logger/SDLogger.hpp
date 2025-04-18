@@ -18,7 +18,7 @@ public:
 
     static SDLogger& instance();
 
-    static void log(const char* message);
+    static void log(const char* message, ...);
 
     bool init();
 
