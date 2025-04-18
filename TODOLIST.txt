@@ -1,0 +1,21 @@
+Le projet consiste à :
+
+X 0 - Création d'un système de log par fichier et FTP et recherche du to do n°1 (SDLogger effectué edt j'ai trouvé une alternative au logger via wifi)
+-> 1 - Skipper le loooooooooong chargement du jeu et être directement emmener dans un niveau.
+2 - Le joueur pourra choisir la sauvegarde souhaité lors du lancement du jeu (Suppression par ailleurs de la limite de sauvegarde et possibilité d'en créer des temporaire fini à 100% ou non qui sera supprimé à la fin)
+3 - Faire en sorte qu'avec un fichier romfs qui rajoute (ne remplace pas) un nouveau monde soit accessible.
+4 - D'attérir en début de parti sur un monde totalement vide mais fonctionnelle
+5 - Créer une nouvelle interface pour l'édition (s'inpirer de mario 64 maker si pas d'inspi)
+7 - Bind de nouvelles touche pour la navigation
+8 - Spawner un objet sur la carte
+    .1 - Terrain
+    .2 - Collectible
+    .3 - Ennemies
+9 - Déplacer/pivoter les ensembles
+10 - Disposer deux mode (création et test)
+11 - Créer une victoire (lune récupéré)
+12 - Créer un système de sauvegarde (probablement un fichier sauvegardable sur la switch)
+13 - Créer un site internet lié à ce mode
+14 - Relier le compte du site via une console
+15 - Publié ces niveau sur le serveur
+16 - Récupérer les niveau des autres.
